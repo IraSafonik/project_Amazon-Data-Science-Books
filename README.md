@@ -1,5 +1,5 @@
 # Project: Amazon Data Science Books
-kaggle
+project is in the process...
 
 ![inbox-6372737-c913ddc103f20c3668a67eda7a92336b-amazon-text-books](https://github.com/IraSafonik/project_Amazon-Data-Science-Books/assets/32171563/aa086f42-2f39-41f3-917b-3e96bfdbc42d)
 
